@@ -1,6 +1,6 @@
 Vincent Santaygillo
 
-Make sure yo have flask and virtualenv installed in your Python Environment.
+Make sure you have flask and virtualenv installed in your Python Environment.
 
 There are two independent programs in this repository, follow the steps below to run them.
 
